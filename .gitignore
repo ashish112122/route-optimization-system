@@ -1,0 +1,19 @@
+# Compiled output
+*.exe
+*.out
+*.o
+
+# Build folders
+build/
+bin/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Kiro internal
+.kiro/
